@@ -1,0 +1,108 @@
+Jul 10 13:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 13:54 : client: [0] opened from 127.0.0.1:44238
+Jul 10 13:54 : client: [1] opened from [::1]:44478
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:54 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:55 : client: [1] closed
+Jul 10 13:55 : client: [2] opened from [::1]:44494
+Jul 10 13:55 : client: [2] closed
+Jul 10 13:55 : client: [3] opened from [::1]:44496
+Jul 10 13:56 : client: [3] closed
+Jul 10 13:57 : client: [4] opened from [::1]:44502
+Jul 10 13:57 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : exception: Failed to open /home/aamir/.config/mpd/playlists: No such file or directory
+Jul 10 13:58 : client: [4] closed
+Jul 10 13:58 : client: [5] opened from [::1]:44504
+Jul 10 13:59 : client: [5] closed
+Jul 10 14:01 : player: played "Bas - Too High to Riot [FLAC]/01 - Too High To Riot.flac"
+Jul 10 14:02 : client: [6] opened from [::1]:44612
+Jul 10 14:02 : client: [6] closed
+Jul 10 14:04 : client: [7] opened from [::1]:44614
+Jul 10 14:04 : client: [7] closed
+Jul 10 14:05 : player: played "Bas - Too High to Riot [FLAC]/02 - Methylone.flac"
+Jul 10 14:05 : client: [8] opened from [::1]:44618
+Jul 10 14:05 : client: [8] closed
+Jul 10 14:05 : client: [9] opened from [::1]:44636
+Jul 10 14:05 : client: [9] closed
+Jul 10 14:09 : player: played "Bas - Too High to Riot [FLAC]/03 - Dopamine (feat. Cozz).flac"
+Jul 10 14:12 : client: [10] opened from [::1]:44822
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 10 14:12 : exception: Failed to open "default detected output" [alsa]
+Jul 10 14:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Jul 10 14:19 : player: played "Bas - Too High to Riot [FLAC]/04 - Housewives.flac"
+Jul 10 14:20 : player: played "Bas - Too High to Riot [FLAC]/11 - Penthouse.flac"
+Jul 10 14:21 : client: [10] closed
+Jul 10 14:24 : player: played "Bas - Too High to Riot [FLAC]/11 - Penthouse.flac"
+Jul 10 14:27 : player: played "Bas - Too High to Riot [FLAC]/12 - Black Owned Business.flac"
+Jul 10 14:28 : client: [11] opened from [::1]:45416
+Jul 10 14:28 : client: [11] closed
+Jul 10 14:31 : player: played "Bas - Too High to Riot [FLAC]/06 - Live For.flac"
+Jul 10 14:34 : player: played "Bas - Too High to Riot [FLAC]/07 - Clouds Never Get Old.flac"
+Jul 10 14:34 : client: [12] opened from [::1]:45682
+Jul 10 14:34 : client: [12] closed
+Jul 10 14:38 : player: played "Bas - Too High to Riot [FLAC]/08 - Matches (feat. The Hics).flac"
+Jul 10 14:41 : player: played "Bas - Too High to Riot [FLAC]/10 - Ricochet (feat. The Hics).flac"
+Jul 10 14:44 : client: [13] opened from [::1]:46466
+Jul 10 14:44 : client: [13] closed
+Jul 10 16:16 : player: played "Bas - Too High to Riot [FLAC]/11 - Penthouse.flac"

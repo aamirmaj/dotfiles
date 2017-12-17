@@ -1,0 +1,42 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+!/home/aamir/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/aamir/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/aamir/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/aamir/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/aamir/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/aamir/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/aamir/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/aamir/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/aamir/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/aamir/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/aamir/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/aamir/.local/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
